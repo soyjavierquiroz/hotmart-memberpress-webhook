@@ -58,3 +58,7 @@ hotmart-memberpress-webhook/
 Desarrollado por Javier Quiroz  
 Repositorio: https://github.com/soyjavierquiroz/hotmart-memberpress-webhook  
 Versión actual: 1.0.0
+=======
+# hotmart-memberpress-webhook
+Plugin de WordPress para conectar Webhooks de Hotmart con MemberPress
+
